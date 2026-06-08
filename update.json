@@ -1,0 +1,17 @@
+{
+  "model": {
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/XYL200518/garbage-cdn/main/yolo_nano_garbage.tflite",
+    "size": 6119593,
+    "checksum": "sha256:3320987b04523058f031d6c939ed12ef0b5fd7dd04c174861bb238cd88b59808",
+    "classes": 5,
+    "releaseNotes": "YOLOv8n垃圾分类模型: Glass/Metal/Paper/Plastic/Waste"
+  },
+  "knowledge_base": {
+    "version": 1,
+    "url": "https://raw.githubusercontent.com/XYL200518/garbage-cdn/main/knowledge_base.json",
+    "size": 0,
+    "itemCount": 48,
+    "releaseNotes": "内置48条基础物品分类"
+  }
+}
